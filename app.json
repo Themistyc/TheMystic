@@ -1,7 +1,7 @@
 {
-  "name": "TheMystic-Bot-MD",
-  "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
-  "repository": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "name": "Mario",
+  "description": "Dame pija (≧▽≦)",
+  "repository": "https://github.com/Themistyc/TheMystic",
   "logo": "https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/Menu2.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
